@@ -22,4 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# hello-app-Rails
+
+## hello-app-Rails
+
+### Basics
